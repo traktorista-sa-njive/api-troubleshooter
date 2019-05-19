@@ -7,4 +7,9 @@ app.get('/', (req, res) => {
   });
 
 
+  app.get('/test', (req, res) => {
+    res.redirect('/');
+  });
+
+
 app.listen(3000);
