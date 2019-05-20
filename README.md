@@ -7,9 +7,10 @@
 | ------------- | ------------- |
 | Backend | [NodeJS](https://nodejs.org)  |
 | Frontend | [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)  |
-| CD | [Heroku](https://jenkins.cloud-build.c.eu-de-1.cloud.sap/blue/organizations/jenkins/financebot-br339jmc4c-canary_eu2-java-deploy/activity)  |
+| CD | [Heroku](https://www.heroku.com)  |
 | CI |[Travis](https://travis-ci.org/) |
 | Database |[MongoDB](https://www.mongodb.com) |
+| Open App |[Live](https://node-api-troubleshooter.herokuapp.com) |
 
 
 # Introduction
