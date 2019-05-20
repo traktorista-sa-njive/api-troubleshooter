@@ -20,7 +20,19 @@ app.get('/', (req, res) => {
   });
 
 
-  app.get('/test', (req, res) => {
+  app.get('/json', (req, res) => {
+    res.redirect('/');
+  });
+
+  app.get('/xml', (req, res) => {
+    res.redirect('/');
+  });
+
+  app.post('/json', (req, res) => {
+    res.redirect('/');
+  });
+
+  app.post('/xml', (req, res) => {
     res.redirect('/');
   });
 
